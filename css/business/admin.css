@@ -1,0 +1,10 @@
+/** User menu **/
+#userMenu {position: absolute; width: 100px;}
+
+/** Contribution admin **/
+table.ewtable th, table.ewtable td{border-color: #d0c0bb;}
+table.ewtable th{background: #bd9e93;}
+table.ewtable tr.odd{background: #e0d8d5;}
+table.ewtable tr.even{background: #d7cdca;}
+table.ewtable a {color: #8c7070;}
+table.ewtable a:hover {color: #c67070;}

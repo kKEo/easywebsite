@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+
+@import "layout.css";
+@import "dimentions.css";
+@import "colors.css";
+
+body
+{
+	margin: 0;
+	padding: 0;
+	font: normal 10pt Arial,Helvetica,sans-serif;
+}
+
+/*
+SENTOR - dodatkowe style
+*/
+
+body{
+	font: normal 11pt Times,Helvetica,sans-serif;
+}
+
+td{
+        vertical-align: top;
+}
+
+td.contentPicture{
+	vertical-align: bottom;
+}
+
+td.contentPicture img{
+        width: 350px;
+}
+
+div#content{
+	margin-left: 60px;
+	margin-right: 30px;
+	width: 460px;
+	color: #4b4b4b;
+}
+/*
+div#contentPicture{
+        padding-top: 20px;
+	background: #fff url('../sentor/images/layout/classic/bodyPicture.jpg') no-repeat;
+	width: 350px;
+	height:300px;
+}
+*/
+
+div.article div.title {
+	display: none;
+}
+
+div.article p{
+	margin: 12px 0;
+	text-align: justify;
+}
+
+div.article a.sub_active{
+	font-weight: bolder;
+	font-style: italic;
+	text-decoration: none;
+	color: #4b4b4b;
+}
+div.article a.sub_active:hover{
+	text-decoration: underline;
+}
+
+div.article a.sub_inactive{
+	font-style: italic;
+	text-decoration: none;
+	color: #4b4b4b;
+}
+

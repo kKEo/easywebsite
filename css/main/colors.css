@@ -1,0 +1,40 @@
+body {background-color: #97a9a2;}
+
+#headerTop{background: url(../../images/layout/classic/headerTop.gif)}
+#headerBody{background: url(../../images/layout/classic/headerBody.gif)}
+#headerMenu{background: url(../../images/layout/classic/headerMenu.gif)}
+
+#actualBody{background: url(../../images/layout/classic/body.gif);}
+
+#footer{background: url(../../images/layout/classic/footer.gif)}
+
+tr .even{background-color: #f6f1ef;}
+tr .odd{background-color: #faf5f3;}
+
+.portlet18 .header {background: url(../../images/layout/classic/portletTop18.gif) no-repeat;}
+.portlet18 .content {background: url(../../images/layout/classic/portletBody18.gif) no-repeat;} 
+.portlet18 .footer {background: url(../../images/layout/classic/portletBottom18.gif) no-repeat;}
+
+.portlet30 .header {background: url(../../images/layout/classic/portletTop30.gif) no-repeat;} 
+.portlet30 .content {background: url(../../images/layout/classic/portletBody30.gif) no-repeat;} 
+.portlet30 .footer {background: url(../../images/layout/classic/portletBottom30.gif) no-repeat;}
+	
+/* begin data grid style */
+table.contributions th, table.contributions td{border-color: #d0c0bb;}
+table.contributions th{background: #bd9e93;}
+table.contributions tr.odd{background: #e0d8d5;}
+table.contributions tr.even{background: #d7cdca;}
+table a {color: #8c7070;}
+table a:hover {color: #c67070;}
+/* end of data grid style */
+
+.confirmation{background-color: #efdfc2;border-color: #c8b697;}
+.article{border-color: #d3dcd7; background-color: #EDF5F0;}
+.article .title{border-color: #d3dcd7;}
+.article .title span{color: #c3ccc7;}
+	
+#cloudTag a{color:#ddcc33;}
+#cloudTag a:hover{color:#ccaa55;}
+.tag{border-color:#775511;}	
+
+.row{border-top-color:#c8b697;}

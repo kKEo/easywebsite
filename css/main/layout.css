@@ -1,0 +1,14 @@
+#header.a{}
+#menu.a{float: left;}
+#content.a{float: left;}
+#footer.a{clear: both;}
+
+.interior{border: dashed 0px;}
+._interior{border: none;}
+.is_container{padding: 0px;}
+
+#header.c{}
+#leftmenu.c{float: left;}
+#content.c{float: left;}
+#rightmenu.c{float: left;}
+#footer.c{clear: both;}

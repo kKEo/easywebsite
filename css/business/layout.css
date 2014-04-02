@@ -1,0 +1,15 @@
+#container{}
+#headerLogo{float: left;}
+#headerMenu{float: left;}
+#headerBody{clear:both;}
+#headerGlobe{float: left;}
+#headerLeft{float:left;}
+#headerRight{float: left;}
+#actualBody{clear:both;}
+#contentTop{float: left;}
+#header{float: left;}
+#headerFooter{float: left;}
+
+/** generic **/
+.floatRight{float:right;}
+.floatLeft{float:left;}

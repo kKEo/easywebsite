@@ -1,0 +1,13 @@
+0,0,5,5,bodyBg
+0,0,247,72,logo
+998,0,2,72,menuBg
+0,72,318,199,globe
+318,72,346,199,leftTop
+664,72,336,199,rightTop
+0,272,1000,41,contentTop
+0,320,1000,2,contentBody
+0,558,1000,42,contentFooter
+247,43,160,29,menuItem
+247,43,14,29,menuItemLeft
+260,43,133,29,menuItemCenter
+393,43,14,29,menuItemRight

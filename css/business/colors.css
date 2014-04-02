@@ -1,0 +1,39 @@
+body{background-image: url(../../images/layout/bodyBg.jpg); background-repeat: repeat-x;background-color: #172437;}
+#container{}
+
+#headerLogo{background: url(../../images/layout/logo.jpg);}
+#headerMenu {background: url(../../images/layout/menuBg.jpg);}
+#headerGlobe {background: url(../../images/layout/globe.jpg);}
+#headerLeft {background: url(../../images/layout/leftTop.jpg) no-repeat;}
+#headerRight {background: url(../../images/layout/rightTop.jpg) no-repeat;}
+
+#contentTop{background: url(../../images/layout/contentTop.jpg) no-repeat;}
+#content{background: url(../../images/layout/contentBody.jpg) repeat-y;}
+#contentFooter{background: url(../../images/layout/contentFooter.jpg);}
+
+/** generic **/
+.required{color: #b35332;}
+
+/** COLORS **/
+.backgroundColor {background-color: #e7e4d8;}
+.background2Color {background-color: #b7b4d8;}
+.borderColor {border-color: #ada68e;}
+
+/** Login page **/
+.widget{
+	color: #615d50;
+	background-image: url(../../images/layout/bodyBg.jpg); 
+	background-repeat: repeat-x;
+	background-position: -200px;
+	border-color: #e7e4d8;
+}
+
+/** main menu **/
+.menuItem{background: url(../../images/layout/menuItem.jpg) no-repeat; opacity: 0.83;}
+
+/** Links **/
+a {color: #000000; text-decoration: none; }
+a:hover{ color: #043e70; }
+
+#contentFooter .menu a {color: #969696;}
+#contentFooter .menu a:hover {color: #b6b6b6;}

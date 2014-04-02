@@ -1,0 +1,33 @@
+#userMenu {position: absolute; top:0px; left:0px; padding: 10px;}
+
+#actualBody{overflow:auto;}
+#header{overflow:auto;}
+
+#headerTop {float: left;}
+#headerLogo {float: left;}
+#headerSubMenu {float: left;}
+#headerLogoRight {float: left;}
+#headerMainMenu {float: left;}
+#content {float: left;}
+#contentPicture {float: left;padding-top: 120px}
+#footerBody {clear: both;}
+
+#headerSubMenu .submenu{padding: 46px;padding-left: 50px;}
+
+#headerSubMenu .submenu .submenuItem{margin-bottom: 7px;padding-left:18px;}
+
+#headerSubMenu .submenu .submenu0{margin-left: 28px;}
+#headerSubMenu .submenu .submenu1{margin-left: 24px;}
+#headerSubMenu .submenu .submenu2{margin-left: 18px;}
+#headerSubMenu .submenu .submenu3{margin-left: 12px;}
+#headerSubMenu .submenu .submenu4{margin-left: 0px;}
+
+#headerTop .goto .menu span{margin-right: 15px;}
+
+/* Menus */
+.menu ul{padding: 0px; margin: 0px; padding: 0.4em 1.5em 0.3em 1.5em;}
+.menu ul li{display: inline;}
+.menu ul li div {padding: 0.3em;}
+
+#headerMainMenu .menu {padding-left:20px; padding-top:4px;}
+#headerMainMenu .menu ul li {padding-left:20px;padding-right: 35px;}
